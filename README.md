@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fronx</h1>
-<h3 align="center">A passionate 16-year-old programmer from Greece.</h3>
+<h3 align="center">A passionate 18-year-old programmer from Greece.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tupacgr?tab=repositories](https://github.com/Tupacgr?tab=repositories)
 
