@@ -26,4 +26,4 @@
     </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tupacgr&show_icons=true&locale=en" alt="fronx" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tupacgr&show_icons=true&locale=en" alt="fronx" /></p>
