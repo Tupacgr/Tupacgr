@@ -20,3 +20,7 @@
     <img src="https://streak-stats.demolab.com?user=Tupacgr&theme=radical&border_radius=8" alt="GitHub Streak" />
     </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tupacgr&label=Profile%20views&color=ff5f5f&style=flat" alt="Tupacgr" />
+</p>
