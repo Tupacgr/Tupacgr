@@ -17,10 +17,10 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Tupacgr&theme=radical&border_radius=8&v=3" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Tupacgr&theme=radical&border_radius=8&v=4" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tupacgr&label=Profile%20views&color=ff5f5f&style=flat&v=3" alt="Tupacgr" />
+  <img src="https://komarev.com/ghpvc/?username=Tupacgr&label=Profile%20views&color=ff5f5f&style=flat&v=4" alt="Tupacgr" />
 </p>
