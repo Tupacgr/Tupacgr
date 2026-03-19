@@ -17,10 +17,13 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Tupacgr&theme=radical&border_radius=8&v=4&date_format=j%20M%20%5BY%5D&timezone=Europe/Athens/Athens&cachebust=1" alt="GitHub Streak" height="195" />
+  <img src="https://streak-stats.demolab.com?user=Tupacgr&theme=radical&border_radius=8&v=4&date_format=j%20M%20%5BY%5D&timezone=Europe/Athens/Athens&cachebust=1" alt="GitHub Streak" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tupacgr&theme=radical&show_icons=true&hide_border=true" alt="Tupacgr's Top Languages" height="195" />
-</p>
+  </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tupacgr&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Tupacgr's Top Languages" />
+  </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tupacgr&label=Profile%20views&color=ff5f5f&style=flat&v=4&date_format=j%20M%20%5BY%5D&timezone=Europe/Athens/Athens&cachebust=1" alt="Tupacgr" />
