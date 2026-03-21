@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Tupacgr&theme=radical&border_radius=8" alt="GitHub Streak" width="495" />
+  <img src="https://streak-stats.demolab.com?user=Tupacgr&theme=radical&border_radius=8&date_format=j%20M%20%5BY%5D" alt="GitHub Streak" width="495" />
   </a>
 </p>
 
